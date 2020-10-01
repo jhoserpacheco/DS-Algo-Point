@@ -4,6 +4,8 @@ Format:
 
 -[Circular Doubly Linked List](CircularDList.java)
 
+-[Binary Search](binarySearch.java)
+
 -[Circular Singly Linked List](CircularSList.java)   
 
 -[Doubly Linked List](DList.java)
